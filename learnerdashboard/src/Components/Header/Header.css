@@ -1,0 +1,13 @@
+.header-learner{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: #fcde67;
+    background-color: #5bccf6;
+    color: #030e12;
+    /* position: fixed; */
+    top: 0%;
+    right: 0%;
+    left: 0%;
+}

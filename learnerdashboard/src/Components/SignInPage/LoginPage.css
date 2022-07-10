@@ -1,0 +1,19 @@
+.login-container{
+    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.login-div{
+    width: 25%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+
+body{
+    background-color: #fcde67;
+}
